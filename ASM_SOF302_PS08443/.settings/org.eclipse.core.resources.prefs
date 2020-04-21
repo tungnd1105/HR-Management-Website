@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller_PageAdmin/danhgiaController.java=UTF-8
+encoding//src/main/java/controller_PageAdmin/loginController.java=UTF-8
+encoding//src/main/java/controller_PageAdmin/nhanvienController.java=UTF-8
+encoding//src/main/java/controller_PageAdmin/phongbanController.java=UTF-8
+encoding//src/main/java/dao/NhanvienDAO.java=UTF-8
+encoding//src/main/java/dao/PhongBanDAO.java=UTF-8
+encoding//src/main/java/dao/danhgiaDAO.java=UTF-8
+encoding//src/main/java/dao/thongkeDAO.java=UTF-8
+encoding//src/main/webapp/resources/assets_PageAdmin/js/dataform.js=UTF-8
+encoding//src/main/webapp/views/views_PageUser/homeUser.jsp=UTF-8
+encoding//src/main/webapp/views/views_PageUser/lienhe.jsp=UTF-8
