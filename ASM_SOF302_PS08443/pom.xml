@@ -87,7 +87,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>5.4.2.Final</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/commons-fileupload/commons-fileupload -->
 		<dependency>
@@ -110,7 +110,7 @@
      <dependency>
            <groupId>org.hibernate</groupId>
            <artifactId>hibernate-core</artifactId>
-           <version>5.2.2.Final</version>
+           <version>5.4.24.Final</version>
        </dependency>
 	</dependencies>
 
